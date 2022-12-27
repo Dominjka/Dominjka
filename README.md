@@ -31,7 +31,7 @@ I was also working on improvements with business connected with creating new pay
 - Creating and testing payment rules in Autobank (SAP)
 
 
-## :wrench: Tools:
+##  🛠️  Tools:
 - JIRA
 - Testlink
 - Trello
