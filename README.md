@@ -37,11 +37,15 @@ I was also working on improvements with business connected with creating new pay
 - Trello
 - SQL
 
+## :page_facing_up: Courses:
+- **SQL Training - Language for accessing the MS SQL Server database** conducted by Robert Kozłowski | Comarch | 27th - 28th of June 2022
+- **The basics of testing in practice** conducted by Natalia Pawlak | Codeme Foundation | April 2022 - June 2022
+
 ## :books: Books:
 - *Certyfikowany tester ISTQB. Poziom podstawowy* (in progress) written by Adam Roman, Lucjan Stapp
 - *Podróż przez świat testowania* written by Karolina Pawłowska, Natalia Pawlak
 
-## Languages:
+## :earth_africa: Languages:
 - English - B2
 - Italian - B1
 - Polish - native
