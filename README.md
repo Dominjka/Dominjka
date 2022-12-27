@@ -1,4 +1,50 @@
-### Hi there 👋
+### Hi,
+
+My name is Dominika Giugno and I am an aspiring manual tester who would like to take on new challenges.
+Last months I have been developing myself in the area of **software quality**.
+I have finished a **testing course** and started testing Web- and mobile applications at **uTest** - a crowd testing platform.
+I am taking a part of **DARE IT** Mentoring Program where I work with my mentor on improving my testing skills, learning new tools and getting knowledge in the area of: 
+- SQL 
+- Github, Git 
+- API (REST API, SOAP API)
+- Postman 
+- Devtools
+
+I am also preparing myself to take the **ISTQB Foundation level** exam.
+
+
+Last 5 years I have been working as an Accountant using the **SAP ERP**.
+During this time I worked in 3 different teams on different projects.
+
+The last project I have been working with was based on **Autobank**, apart from all of the tasks connected with accountancy I have been creating payment rules in Autobank accordingly to the business requirements and testing them so then payments could be posted automatically by SAP.
+I also had a possibility to perform **smoke tests** by installing new GUI for SAP and report all of the details of the installation, any issues and changes.
+I was also working on improvements with business connected with creating new payment rules in Autobank.
+
+
+## Technical skills:
+- Dynamic and static testing
+- Reporting issues
+- Creating test cases and test scenarios
+- Testing Web apps and Mobile apps
+- Creating basic queries in SQL
+- Knowledge of SAP ERP
+- Creating and testing payment rules in Autobank (SAP)
+
+
+## :wrench: Tools:
+- JIRA
+- Testlink
+- Trello
+- SQL
+
+## :books: Books:
+- *Certyfikowany tester ISTQB. Poziom podstawowy* (in progress) written by Adam Roman, Lucjan Stapp
+- *Podróż przez świat testowania* written by Karolina Pawłowska, Natalia Pawlak
+
+## Languages:
+- English - B2
+- Italian - B1
+- Polish - native
 
 <!--
 **Dominjka/Dominjka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
