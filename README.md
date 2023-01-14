@@ -6,7 +6,7 @@ I have finished a **testing course** and started testing Web- and mobile applica
 I am taking a part of **DARE IT** Mentoring Program where I work with my mentor on improving my testing skills, learning new tools and getting knowledge in the area of: 
 - SQL 
 - Github, Git 
-- API (REST API, SOAP API)
+- API (REST, SOAP)
 - Postman 
 - Devtools
 
@@ -35,14 +35,14 @@ I was also working on improvements with business connected with creating new pay
 - JIRA
 - Testlink
 - Trello
-- SQL
 
 ## :page_facing_up: Courses:
+- **Microsoft SQL from A to Z - The complete guide to SQL Querying** prepared by Brewster Knowlton | Udemy
 - **SQL Training - Language for accessing the MS SQL Server database** conducted by Robert Kozłowski | Comarch | 27th - 28th of June 2022
 - **The basics of testing in practice** conducted by Natalia Pawlak | Codeme Foundation | April 2022 - June 2022
 
 ## :books: Books:
-- *Certyfikowany tester ISTQB. Poziom podstawowy* (in progress) written by Adam Roman, Lucjan Stapp
+- *Certyfikowany tester ISTQB. Poziom podstawowy* written by Adam Roman, Lucjan Stapp - in progress
 - *Podróż przez świat testowania* written by Karolina Pawłowska, Natalia Pawlak
 
 ## :earth_africa: Languages:
