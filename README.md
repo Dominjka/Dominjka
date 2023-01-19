@@ -22,7 +22,6 @@ I was also working on improvements with business connected with creating new pay
 
 
 ## Technical skills:
-- Dynamic and static testing
 - Reporting issues
 - Creating test cases and test scenarios
 - Testing Web apps and Mobile apps
@@ -37,7 +36,8 @@ I was also working on improvements with business connected with creating new pay
 - Trello
 
 ## :page_facing_up: Courses:
-- **Microsoft SQL from A to Z - The complete guide to SQL Querying** prepared by Brewster Knowlton | Udemy
+- **Quick Introduction to Postman and API Testing for Beginners** prepared by Valentin Despa - in progress
+- **Microsoft SQL from A to Z - The complete guide to SQL Querying** prepared by Brewster Knowlton | Udemy | January 2023
 - **SQL Training - Language for accessing the MS SQL Server database** conducted by Robert Kozłowski | Comarch | 27th - 28th of June 2022
 - **The basics of testing in practice** conducted by Natalia Pawlak | Codeme Foundation | April 2022 - June 2022
 
