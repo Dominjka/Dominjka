@@ -1,14 +1,15 @@
 ### Hi,
 
-My name is Dominika Giugno and I am an aspiring manual tester who would like to take on new challenges.
-Last months I have been developing myself in the area of **software quality**.
-I have finished a **testing course** and started testing Web- and mobile applications at **uTest** - a crowd testing platform.
-I am taking a part of **DARE IT** Mentoring Program where I work with my mentor on improving my testing skills, learning new tools and getting knowledge in the area of: 
+My name is Dominika Giugno and I am a manual software tester. 
+Over the past few months, I have been focusing on expanding my knowledge and skills in the field of **software quality**. 
+I completed a **testing course** and gained practical experience by testing web and mobile applications on **uTest**, a crowd testing platform. Additionally, I participated in the **DARE IT** Mentoring Program, where I have been working with a mentor to improve my testing skills, explore new tools, and gain expertise in areas such as:
 - SQL 
 - Github, Git 
-- API (REST, SOAP)
-- Postman 
-- Devtools
+- API (REST, SOAP) 
+- Postman
+- Devtools. 
+
+Recently, I completed a 2-month **Quality Assurance Internship**, and I am currently employed as a **software tester**.
 
 I am also preparing myself to take the **ISTQB Foundation level** exam.
 
@@ -25,6 +26,7 @@ I was also working on improvements with business connected with creating new pay
 - Reporting issues
 - Creating test cases and test scenarios
 - Testing Web apps and Mobile apps
+- API testing (REST)
 - Creating basic queries in SQL
 - Knowledge of SAP ERP
 - Creating and testing payment rules in Autobank (SAP)
@@ -32,8 +34,13 @@ I was also working on improvements with business connected with creating new pay
 
 ##  🛠️  Tools:
 - JIRA
+- Confluence
+- Zebrunner
+- Redmine
+- Postman
 - Testlink
 - Trello
+
 
 ## :page_facing_up: Courses:
 - **Quick Introduction to Postman and API Testing for Beginners** prepared by Valentin Despa - in progress
